@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206.749" height="54.768" viewBox="0 0 206.749 54.768">
+    <defs>
+        <filter id="yx17s1r99a" width="206.749" height="54.768" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#yx17s1r99a)" transform="translate(-448.22 -2608.847) translate(448.22 2608.85)">
+            <path fill="#fff" d="M78.533 229.565c9.6-7.465 9.382-10.554 9.382-10.556a18.052 18.052 0 0 1-1.423-7.039c0-9.719 7.6-17.6 16.976-17.6h146.838c9.376 0 16.976 7.879 16.976 17.6 0 9.717-7.6 17.6-16.976 17.6H103.469a16.38 16.38 0 0 1-6.9-1.529c-10.301 5.933-18.036 1.524-18.036 1.524z" transform="translate(-69.53 -188.37)"/>
+        </g>
+        <text fill="#191919" font-family="Roboto-Regular, Roboto" font-size="16px" opacity="0.947" transform="translate(-448.22 -2608.847) translate(480.453 2622.168)">
+            <tspan x="8.871" y="15">Schedule a Demo</tspan>
+        </text>
+    </g>
+</svg>

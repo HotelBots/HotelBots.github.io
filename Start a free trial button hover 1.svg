@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="265.079" height="66.13" viewBox="0 0 265.079 66.13">
+    <defs>
+        <filter id="s29u1pwa5a" width="265.079" height="66.13" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#s29u1pwa5a)" transform="translate(-200.22 -862.485) translate(200.22 862.48)">
+            <path fill="#8b8bb1" d="M78.533 240.441c12.573-9.772 12.281-13.816 12.281-13.819a23.631 23.631 0 0 1-1.862-9.214c0-12.722 9.949-23.036 22.222-23.036H303.39c12.273 0 22.223 10.313 22.223 23.036 0 12.72-9.949 23.033-22.223 23.033H111.175a21.442 21.442 0 0 1-9.035-2c-13.482 7.772-23.607 2-23.607 2z" transform="translate(-69.53 -188.37)"/>
+        </g>
+        <text fill="#fff" font-family="Roboto-Medium, Roboto" font-size="20px" font-weight="500" transform="translate(-200.22 -862.485) translate(263.918 878.789)">
+            <tspan x="0" y="19">Start a Free Trial</tspan>
+        </text>
+    </g>
+</svg>

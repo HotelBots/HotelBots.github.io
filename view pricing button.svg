@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="266.476" height="67.137" viewBox="0 0 266.476 67.137">
+    <defs>
+        <filter id="bisnanrz1a" width="266.476" height="67.137" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <text fill="#fff" font-family="Roboto-Regular, Roboto" font-size="20px" transform="translate(-1090.323 -59.985) translate(1164.936 75.83)">
+            <tspan x="9.4" y="19">View Pricing</tspan>
+        </text>
+        <g filter="url(#bisnanrz1a)" transform="translate(-1090.323 -59.985) translate(1090.32 59.98)">
+            <path fill="none" stroke="#fff" d="M78.533 240.441c12.573-9.772 12.281-13.816 12.281-13.819a23.631 23.631 0 0 1-1.862-9.214c0-12.722 9.949-23.036 22.222-23.036H303.39c12.273 0 22.223 10.313 22.223 23.036 0 12.72-9.949 23.033-22.223 23.033H111.175a21.442 21.442 0 0 1-9.035-2c-13.482 7.772-23.607 2-23.607 2z" transform="translate(-68.64 -187.87)"/>
+        </g>
+    </g>
+</svg>
