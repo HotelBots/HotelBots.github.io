@@ -9,26 +9,26 @@
             <stop offset="1" stop-color="#43435b"/>
         </linearGradient>
         <style>
-            .cls-1{fill:#1a1a1a}.cls-4,.cls-5{fill:#fff}.cls-4{font-size:40px;font-family:Roboto-Medium,Roboto;font-weight:500}.cls-5{font-size:18px;font-family:Roboto-Italic,Roboto;font-style:italic;opacity:.947}
+            .els-1{fill:#1a1a1a}.els-4,.els-5{fill:#fff}.els-4{font-size:40px;font-family:Roboto-Medium,Roboto;font-weight:500}.els-5{font-size:18px;font-family:Roboto-Italic,Roboto;font-style:italic;opacity:.947}
         </style>
     </defs>
     <g id="pricing_phones_" transform="translate(-409.319 -2131.121)">
         <g id="pricing_phones">
-            <path id="Rectangle_60" d="M50.408 0H238.57a50.407 50.407 0 0 1 50.407 50.407V525.35a50.408 50.408 0 0 1-50.408 50.408H50.407A50.407 50.407 0 0 1 0 525.35V50.408A50.408 50.408 0 0 1 50.408 0z" class="cls-1" transform="translate(409.319 2131.121)"/>
+            <path id="Rectangle_60" d="M50.408 0H238.57a50.407 50.407 0 0 1 50.407 50.407V525.35a50.408 50.408 0 0 1-50.408 50.408H50.407A50.407 50.407 0 0 1 0 525.35V50.408A50.408 50.408 0 0 1 50.408 0z" class="els-1" transform="translate(409.319 2131.121)"/>
             <path id="Rectangle_61" fill="url(#linear-gradient)" d="M38.056 0H233.2a38.055 38.055 0 0 1 38.055 38.055v452.073a38.056 38.056 0 0 1-38.055 38.056H38.056A38.056 38.056 0 0 1 0 490.128V38.056A38.056 38.056 0 0 1 38.056 0z" transform="translate(418.182 2158.573)"/>
-            <path id="Rectangle_103" d="M50.408 0H238.57a50.407 50.407 0 0 1 50.407 50.407V525.35a50.408 50.408 0 0 1-50.408 50.408H50.407A50.407 50.407 0 0 1 0 525.35V50.408A50.408 50.408 0 0 1 50.408 0z" class="cls-1" transform="translate(742.319 2131.121)"/>
+            <path id="Rectangle_103" d="M50.408 0H238.57a50.407 50.407 0 0 1 50.407 50.407V525.35a50.408 50.408 0 0 1-50.408 50.408H50.407A50.407 50.407 0 0 1 0 525.35V50.408A50.408 50.408 0 0 1 50.408 0z" class="els-1" transform="translate(742.319 2131.121)"/>
             <path id="Rectangle_104" fill="url(#linear-gradient-2)" d="M38.056 0H233.2a38.055 38.055 0 0 1 38.055 38.055v452.073a38.056 38.056 0 0 1-38.055 38.056H38.056A38.056 38.056 0 0 1 0 490.128V38.056A38.056 38.056 0 0 1 38.056 0z" transform="translate(751.182 2158.573)"/>
         </g>
-        <text id="Monthly_600" class="cls-4" transform="translate(811.278 2334.037)">
+        <text id="Monthly_600" class="els-4" transform="translate(811.278 2334.037)">
             <tspan x="2.656" y="37">Monthly</tspan><tspan x="29.805" y="84">$600</tspan>
         </text>
-        <text id="Schedule_a_Demo" class="cls-4" transform="translate(467.278 2334.037)">
+        <text id="Schedule_a_Demo" class="els-4" transform="translate(467.278 2334.037)">
             <tspan x="1.156" y="37">Schedule </tspan><tspan x="15.385" y="84">a Demo</tspan>
         </text>
-        <text id="_30-Min_Demo" class="cls-5" transform="translate(499.453 2434.168)">
+        <text id="_30-Min_Demo" class="els-5" transform="translate(499.453 2434.168)">
             <tspan x="0" y="17">30-Min Demo</tspan>
         </text>
-        <text id="Up-to_150_Users" class="cls-5" transform="translate(819.453 2434.168)">
+        <text id="Up-to_150_Users" class="els-5" transform="translate(819.453 2434.168)">
             <tspan x="4.278" y="17">Up-to 150 Users</tspan>
         </text>
     </g>
